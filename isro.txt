@@ -6,4 +6,9 @@ Local Git : " On 23 Aug Chandrayan 3 will be launched on Moon..".
 ISRO has launched Chandrayan 3 mission recently...
 
 GitHub : "Gaganyan is man mission where Indian astronauts will be send to space first time"
+<<<<<<< HEAD
 >>>>>>> b2f139255e157e7e1bd10ddf2c11b06a1526d262
+=======
+
+GitHub : " ISRO is planning new Mars Mission soon.."
+>>>>>>> 2eee8f59e0a85524f6a7531ab54c45ab2782d622
