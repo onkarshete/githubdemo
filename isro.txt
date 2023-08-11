@@ -11,4 +11,11 @@ GitHub : "Gaganyan is man mission where Indian astronauts will be send to space 
 =======
 
 GitHub : " ISRO is planning new Mars Mission soon.."
+<<<<<<< HEAD
 >>>>>>> 2eee8f59e0a85524f6a7531ab54c45ab2782d622
+=======
+
+GitHub : "Remember date 23 Aug 2023"
+>>>>>>> a67178c0e093bfc106b82821132fa9be58d94c4a
+
+Local Git : " Definetly we'll watch moon landing"
