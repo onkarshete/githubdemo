@@ -1,6 +1,15 @@
+<<<<<<< HEAD
+=======
+PMO : "Venus Mission Shukra 01 "
+Budget 1100 Cr will be allocate for mission.
+Aatm Nirbhar Bharat. Jai Hind!!
+>>>>>>> ad3da80 (PMO : 1100 Cr Fund has allocated for Shukra 01. Jai Hind)
 
 PMO : After the fake news and high demand from Indians 
 ISRO is finally planning to launch the Venus Rocket the Name is "Shukra 01".
 Official Date will be shared soon.
+<<<<<<< HEAD
 
 GitHub : Date Confimation -  19 Aug 2025 Shukra Mission will be launch. Further details will be share soon. Jai Hind
+=======
+>>>>>>> ad3da80 (PMO : 1100 Cr Fund has allocated for Shukra 01. Jai Hind)
