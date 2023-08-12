@@ -11,4 +11,6 @@ GitHub : Date Confimation -  19 Aug 2025 Shukra Mission will be launch. Further 
 Mars Branch : Rocket parts will be taken from  L&T and godrej"
 	      Booster will develop by ISRO itself.
 
-Mars Branch : SpaceCraft contains the Orbiter, Lander, Rover
+Mars Branch : SpaceCraft contains the Orbiter, Lander, Rover.
+
+Mars Branch : Duration will be 4 months to reach venus
