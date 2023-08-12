@@ -1,12 +1,28 @@
+<<<<<<< HEAD
 PMO : "Venus Mission Shukra 01 "
 Budget 1100 Cr will be allocate for mission.
 Aatm Nirbhar Bharat. Jai Hind!!
 
+=======
+>>>>>>> mars
 PMO : After the fake news and high demand from Indians 
 ISRO is finally planning to launch the Venus Rocket the Name is "Shukra 01".
 Official Date will be shared soon.
 
+<<<<<<< HEAD
 GitHub : Date Confimation -  19 Aug 2025 Shukra Mission will be launch. Further details will be share soon. Jai Hind
 =======
 Mars Branch : Rocket parts will be taken from  L&T and godrej"
 	      Booster will develop by ISRO itself.
+=======
+PMO : "Venus Mission Shukra 01 "
+Budget 1100 Cr will be allocate for mission.
+Aatm Nirbhar Bharat. Jai Hind!!
+
+GitHub : Date Confirmation -  19 Aug 2025 Shukra Mission will be launch. Further details will be share soon. Jai Hind
+
+Mars Branch : Rocket parts will be taken from  L&T and godrej"
+	      Booster will develop by ISRO itself.
+
+Mars Branch : SpaceCraft contains the Orbiter, Lander, Rover
+>>>>>>> mars
