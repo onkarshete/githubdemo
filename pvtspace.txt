@@ -3,3 +3,5 @@ ISRO has recently private company can do the space exploration
 GitHub : " Space Companies can assemble there rockets and can launch in space"
 
 Local Git : " ISRO will help to private companies to build the rockets"
+
+Local Git : " Private company must register with ISRO first"
